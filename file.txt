@@ -1,3 +1,4 @@
+git and github connected
 welcome
 welcome1 has been changed to hearty welcome
 welcome2
